@@ -1,0 +1,27 @@
+# OS generated files
+#####################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE specific files
+#####################
+*.iml
+.idea/
+*.class
+*.log
+*.swp
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore node_modules
+node_modules/
+
+# Ignore build and dist folders
+dist/
+build/
